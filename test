@@ -1,0 +1,11 @@
++    // +
+:=   /* ASSIGN */
+()   // ( )
+.a   // ERROR
+.2   // NUMBER
+123  // NUMBER
+1.2  // NUMBER
+read // READ
+write // WRITE
+reap // ID
+!    // ERROR
